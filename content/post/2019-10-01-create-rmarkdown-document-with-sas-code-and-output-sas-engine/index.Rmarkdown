@@ -1,16 +1,16 @@
 ---
-title: Create Rmarkdown Document with SAS Code and Output - SAS engine
-author: Melinda Higgins
+title: "Create Rmarkdown Document with SAS Code and Output - SAS engine"
+author: "Melinda Higgins"
 date: '2019-10-01'
 slug: create-rmarkdown-document-with-sas-code-and-output-sas-engine
 categories:
-  - R
-  - SAS
-  - Rmarkdown
+- R
+- SAS
+- Rmarkdown
 tags:
-  - R
-  - SAS
-  - Rmarkdown
+- R
+- SAS
+- Rmarkdown
 subtitle: ''
 summary: ''
 authors: []
