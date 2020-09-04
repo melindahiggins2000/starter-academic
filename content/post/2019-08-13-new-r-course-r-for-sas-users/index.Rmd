@@ -1,0 +1,46 @@
+---
+title: 'New R Course: R for SAS Users'
+author: Melinda Higgins
+date: '2019-08-13'
+slug: new-r-course-r-for-sas-users
+categories:
+  - R
+  - SAS
+tags:
+  - R
+  - SAS
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-09-02'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+## Do you know some SAS? Want to Learn R?
+
+If you have some experience with SAS and want to learn R, this is the course for you. R is FREE (cost) and OPEN (license) and is one of the fastest growing software languages for statistics and data science. This course is a gentle introduction to the R language with every chapter providing a detailed mapping of R functions to SAS procedures highlighting similarities and differences. You will orient yourself in the R environment and discover how to wrangle, visualize, and model data plus customize your output for final presentation. Throughout the course, you will follow a consistent workflow of data quality checking and cleaning, exploring relationships, modeling, and presenting results. You will leave this course with coded examples that provide a template to use immediately with a dataset of your own.
+
+## Course Summary
+
+The course takes only 4 hours or less to complete. It has 15 short (5 minutes or less) videos and 41 coding exercises. The  4 chapters cover:
+
+* Getting started with R
+* Data wrangling
+* Data exploration
+* Models and presentation
+
+You will leave the course with coded examples and a workflow template to make you productive in R right away.
+
+## Take the Course Today!
+
+Create an account and take the [R for SAS Users](https://www.datacamp.com/courses/r-for-sas-users) course today! You can take the first chapter for FREE but will need a subscription to complete the full course.
+
+#### Read more on R and SAS
+
+* [R-Bloggers](https://www.r-bloggers.com/) 
+* [PROC-X SAS Bloggers](http://www.proc-x.com/)
